@@ -1,8 +1,9 @@
 <h2 align="center">Hi! 👋 I'm Abdullahi </h2>
 
 # 💫 About Me:
-🌱 I’m currently learning cloud resources on AWS  <br>📫  How to reach me: abdullahisabriye@gmail.com<br>⚡ Fun fact... I love food & being outdoors 
-
+🌱 I'm a continous learner that's interested in Cloud and automation  <br>📫  How to reach me: abdullahisabriye@gmail.com 
+<br>☁️ Cloud Explorer: Currently studying for the AWS Solution Architect Associate certification to deepen my knowledge of cloud solutions.<br>
+🛠️ Infrastructure Builder: Learning Terraform to master infrastructure as code and enhance deployment strategies.<br>⚡ Fun fact... I love food & being outdoors
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullahisabriye/) 
 
