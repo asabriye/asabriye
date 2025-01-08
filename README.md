@@ -1,7 +1,7 @@
 <h2 align="center">Hi! 👋 I'm Abdullahi </h2>
 
 # 💫 About Me:
-🌱 I'm a continous learner that's interested in Cloud and automation  <br>📫  How to reach me: abdullahisabriye@gmail.com 
+🌱 I'm a continous learner that's interested in IT, Cloud and automation  <br>📫  How to reach me: abdullahisabriye@gmail.com 
 <br>☁️ Cloud Explorer: Currently studying for the AWS Solution Architect Associate certification to deepen my knowledge of cloud solutions.<br>
 🛠️ Infrastructure Builder: Learning Terraform to master infrastructure as code and enhance deployment strategies.<br>⚡ Fun fact... I love food & being outdoors
 ## 🌐 Socials:
